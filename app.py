@@ -1,5 +1,7 @@
+
 import streamlit as st
- 
+ import os
+st.image("LOGO.jpg")
 # =========================
 # CẤU HÌNH TRANG WEB
 # =========================
