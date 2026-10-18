@@ -37,7 +37,7 @@ def tinh_thue_tncn(thu_nhap_tinh_thue):
 # =========================
 # TIÊU ĐỀ ỨNG DỤNG
 # =========================
-st.title("💰 ỨNG DỤNG TÍNH LƯƠNG THỰC LÃNH")
+st.title("💰 PHẦN MỀM TÍNH LƯƠNG KHANH KHANH")
 st.caption(
    "Tính tổng thu nhập, bảo hiểm xã hội và các khoản bảo hiểm, "
    "thuế thu nhập cá nhân và tiền lương sau khấu trừ."
